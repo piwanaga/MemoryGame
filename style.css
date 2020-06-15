@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+#button-div {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+#new-game-button {
+  width: 200px;
+  height: 40px;
+  font-size: 1.2em;
+}
+
+#game div {
+  border: 1px solid black;
+  border-radius: 7px;
+  width: 13%;
+  padding-top: 13%;
+  margin: 10px;
+  display: inline-block;
+}
+
+#guesses-div {
+  text-align: right;
+  margin-right: 30px;
+  font-size: 1.2em;
+}
